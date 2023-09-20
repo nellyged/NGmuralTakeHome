@@ -1,6 +1,6 @@
 import React, { useState, useEffect } from "react";
 
-const ETHERSCAN_API_KEY = "UGCCH7UQ7F3ISPJSNW23G1TY28GPB2VG9F";
+const ETHERSCAN_API_KEY = "";
 const ETHERSCAN_ENDPOINT = "https://api-goerli.etherscan.io/api";
 
 function TransactionTable({ address }) {
